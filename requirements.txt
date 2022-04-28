@@ -1,0 +1,13 @@
+torch
+torchvision
+h5py
+Pillow
+sklearn
+tqdm
+opencv-python
+openslide
+tifffile
+numpy
+matplotlib
+skimage
+segmentation_models_pytorch

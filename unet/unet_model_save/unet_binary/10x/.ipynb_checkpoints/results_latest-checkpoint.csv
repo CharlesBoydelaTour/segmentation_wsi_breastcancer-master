@@ -1,0 +1,2 @@
+pixel_accuracy,pixel_precision,pixel_recall,patches_accuracy,dice_score,mean_iou,false_neg_rate,true_pos_rate,false_pos_rate,test_size,pixel_threshold,img_positive_threshold
+0.8007213130141749,0.7509218461887021,0.8117959199002134,0.8423295454545454,0.8345845818937792,0.6644452956874324,0.10457787931335526,0.8954221206866446,0.2023989234291925,2112,0.4,0.4

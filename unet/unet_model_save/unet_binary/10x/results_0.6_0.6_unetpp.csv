@@ -1,0 +1,2 @@
+pixel_accuracy,pixel_precision,pixel_recall,accuracy,false_neg_rate,true_pos_rate,false_pos_rate,test_size,pixel_threshold,img_positive_threshold
+0.8122728810165868,0.7656072330191351,0.8117383584757365,0.8759469696969697,0.1724853601146522,0.8275146398853478,0.09124040147675427,2112,0.6,0.6
